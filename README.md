@@ -18,6 +18,12 @@
 ********
 
 Более подробно с выводами исследования можно ознакомиться здесь https://docs.google.com/document/d/1Ku6MunWVGS0wPoxO-sOmx9Z0NHpJC2wwXIBr71PfCO4/edit?usp=sharing
+********
+
+- Univercities.ipynb - файл с EDA
+- data.csv - исходные данные
+- structure.csv - расшифровка названий колонок
+- meta.csv - метаинформация об источнике данных
 
 
 
